@@ -1,6 +1,4 @@
-Seminario de filosofía moderna: Hume
-=======
-
+#Seminario de filosofía moderna: Hume
 
 ## Descripción del curso
 *Docente*
@@ -16,13 +14,13 @@ juan.espejo1@unisabana.edu.co
 El objetivo central de esta asignatura es desarrollar las competencias filosóficas del estudiante por medio del estudio del *Tratado de la naturaleza humana* de David Hume. El desarrollo de estas competencias se buscará a través de la discusión oral y escrita de dos grandes áreas de la filosofía de Hume: la teoría del conocimiento y la teoría moral. Para esto, se utilizará la metodología de seminario alemán en la que un estudiante estará encargado de liderar la discusión de una sección del *Tratado* previamente asignada o de una lectura de la bibliografía secundaria. La sesión girará en torno a una relatoría escrita por el estudiante encargado que será discutida en clase por todos los asistentes. Al final del semestre, el estudiante consolidará lo aprendido en un ensayo argumentativo en el que desarrolle a mayor profundidad alguno de los elementos discutidos a lo largo del semestre. 
 ## Objetivos esperados de aprendizaje
       
-*El estudiante lee críticamente, analiza e interpreta la teoría del conocimiento de David Hume.
+* El estudiante lee críticamente, analiza e interpreta la teoría del conocimiento de David Hume.
 
-*El estudiante lee críticamente, analiza e interpreta la teoría moral de David Hume.
+* El estudiante lee críticamente, analiza e interpreta la teoría moral de David Hume.
 
-*El estudiante planea y elabora textos interpretativos y argumentativos acerca de las teorías de David Hume.
+* El estudiante planea y elabora textos interpretativos y argumentativos acerca de las teorías de David Hume.
 
-*El estudiante utiliza TIC para apoyar el estudio filosófico de la obra de David Hume.
+* El estudiante utiliza TIC para apoyar el estudio filosófico de la obra de David Hume.
 
 
 <!-- toc -->
