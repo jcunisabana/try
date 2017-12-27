@@ -1,5 +1,7 @@
 # Seminario de filosofía moderna: Hume
 
+[TOC]
+
 ## Descripción del curso
 *Docente*
 Juan Camilo Espejo-Serna
@@ -23,7 +25,7 @@ El objetivo central de esta asignatura es desarrollar las competencias filosófi
 * El estudiante utiliza TIC para apoyar el estudio filosófico de la obra de David Hume.
 
 
-<!-- toc -->
+<!-- twoc -->
 [](#Descripción del curso)
 [](#Objetivos esperados de aprendizaje)
-<!-- tocstop -->
+<!-- twocstop -->
