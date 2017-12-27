@@ -1,4 +1,4 @@
-#Seminario de filosofía moderna: Hume
+# Seminario de filosofía moderna: Hume
 
 ## Descripción del curso
 *Docente*
