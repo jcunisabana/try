@@ -1,10 +1,10 @@
 # Seminario de filosofía moderna: Hume
 
 ## Descripción del curso
-![alt text](https://upload.wikimedia.org/wikipedia/commons/0/0e/DavidHume.jpg "Estatua de David Hume")
 
 *Docente:*
-Juan Camilo Espejo-Serna
+Juan Camilo Espejo-Serna![alt text](https://upload.wikimedia.org/wikipedia/commons/0/0e/DavidHume.jpg "Estatua de David Hume")
+
 
 *Correo electrónico:*
 juan.espejo1@unisabana.edu.co
