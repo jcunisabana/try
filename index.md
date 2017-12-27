@@ -1,6 +1,6 @@
 <!-- toc -->
-- [abc](#abc)
-- [xyz](#xyz)
+[abc](#abc)
+[xyz](#xyz)
 <!-- tocstop -->
 
 ## abc
