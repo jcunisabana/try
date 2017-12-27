@@ -1,5 +1,5 @@
 #  Hume
 
-[H](hume.md)
-[About](about.md)
-[Download](download.md)
+[Sesiones](sesiones.md)
+[Foro](foro.md)
+
