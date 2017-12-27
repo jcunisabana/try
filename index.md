@@ -32,4 +32,4 @@ http://jcunisabana.github.io/hume
 [](#Descripción del curso)
 [](#Objetivos esperados de aprendizaje)
 <!-- tocstop -->
-[gimmick:theme](readable)
+[gimmick:theme](united)
