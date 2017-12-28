@@ -1,7 +1,7 @@
 # Plan semanal
 
 ## Semana 1
-Presentación del programa y de las reglas del seminario. Introduccin a la filosofía de Hume y al *Tratado*. Repartición de relatorías y protocolos. 
+Introducción a la filosofía de Hume y al *Tratado*. Presentación del programa y de las reglas del seminario. Repartición de relatorías y protocolos. 
 
 ## Semana 2
 Tema: 
