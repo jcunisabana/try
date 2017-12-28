@@ -1,9 +1,10 @@
 # Seminario de filosofía moderna: Hume
 
 ## Plan semanal
-### Semana 1: Introducción al seminario. 
+### Semana 1 
 Presentación del programa. Repartición de temas. 
-### Semana 2: Teoría de las ideas
+### Semana 2
+Teoría de las ideas
 Lectura:
 Relatoría: 
 Protocolo:
@@ -13,8 +14,8 @@ Protocolo:
 
 
 <!-- toc -->
- [](#semana-1--introducci-n-al-seminario)
- [](#semana-2--teor-a-de-las-ideas)
- [](#semana-3-)
+ [](#semana-1)
+ [](#semana-2)
+ [](#semana-3)
 <!-- tocstop -->
 [gimmick:theme](united)
