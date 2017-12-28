@@ -94,7 +94,6 @@ Protocolo:
 
 
 <!-- toc -->
-[](#Semana 1)
 [](#Semana 2)
 [](#Semana 3)
 [](#Semana 4)
@@ -111,5 +110,6 @@ Protocolo:
 [](#Semana 15)
 [](#Semana 16)
 <!-- tocstop -->
+
 [gimmick:theme](united)
 
