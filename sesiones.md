@@ -14,8 +14,9 @@ Stroud
 
 
 <!-- toc -->
- [](#Semana 1)
- [](#Semana 2)
- [](#Semana 3)
+ [Semana 1](#Semana 1)
+ [Semana 2](#Semana 2)
+ [Semana 3](#Semana 3)
 <!-- tocstop -->
+
 [gimmick:theme](united)
