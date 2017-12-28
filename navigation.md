@@ -1,5 +1,4 @@
 #  SFM: Hume
 
-[Sesiones](sesiones.md)
+[Plan Semanal](sesiones.md)
 [Foro](foro.md)
-
