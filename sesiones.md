@@ -2,7 +2,7 @@
 
 ## Plan semanal
 ### Semana 1 
-Presentación del programa. Repartición de temas. 
+Presentación del programa y de las reglas del seminario. Repartición de relatorías y protocolos. 
 ### Semana 2
 Teoría de las ideas
 Lectura:
