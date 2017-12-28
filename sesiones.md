@@ -1,4 +1,4 @@
-# Seminario de filosofía moderna: Hume
+# Plan semanal
 
 ## Semana 1
 
