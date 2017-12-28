@@ -14,8 +14,8 @@ Protocolo:
 
 
 <!-- toc -->
- [](#Semana%201)
- [](#Semana%202)
- [](#Semana%203)
+ [](#Semana 1)
+ [](#Semana 2)
+ [](#Semana 3)
 <!-- tocstop -->
 [gimmick:theme](united)
