@@ -9,7 +9,7 @@ Lectura:
 Relatoría: 
 Protocolo:
 ### Semana 3: 
-
+Stroud
 
 
 
