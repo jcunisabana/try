@@ -1,3 +1,5 @@
+[gimmick:theme](united)
+
 # Plan semanal
 
 | **Introducción** |
@@ -74,7 +76,6 @@ Razón, pasión y moralidad
 Moralidad y sociedad.
 ¿En qué consiste la psicología moral de Hume?
 ¿Por qué cree Hume que la razón esclava de las pasiones?
-
 <!-- toc -->
 [](#Semana 2)
 [](#Semana 3)
@@ -92,6 +93,3 @@ Moralidad y sociedad.
 [](#Semana 15)
 [](#Semana 16)
 <!-- tocstop -->
-
-[gimmick:theme](united)
-
