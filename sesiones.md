@@ -44,7 +44,7 @@ Posibles temas a tratar basados en textos de comentaristas.
 ¿Es Hume un escéptico respecto al conocimiento?
  
 --- 
-## Teoría del moral
+## Teoría moral
 
 ## Semana 10
 Tema: Voluntad: pasiones y razones
