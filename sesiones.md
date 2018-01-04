@@ -9,6 +9,7 @@ Introducción a la filosofía de Hume y al *Tratado*. Presentación del programa
 ---
 
 ## Teoría del conocimiento
+Primer libro del *Tratado de la naturaleza humana* y comentaristas sobre la epistemología y filosofía de la mente humeana.
 
 ## Semana 2 
 Teoría de las ideas.  
@@ -45,6 +46,7 @@ Posibles temas a tratar basados en textos de comentaristas.
  
 --- 
 ## Teoría moral
+Segundo y tercer libro del *Tratado de la naturaleza humana* y comentaristas sobre la ética y filosofía de la mente humeana.
 
 ## Semana 10
 Tema: Voluntad: pasiones y razones
@@ -78,19 +80,4 @@ Moralidad y sociedad.
 ¿En qué consiste la psicología moral de Hume?
 ¿Por qué cree Hume que la razón esclava de las pasiones?
 <!-- toc -->
-[](#Semana 2)
-[](#Semana 3)
-[](#Semana 4)
-[](#Semana 5)
-[](#Semana 6)
-[](#Semana 7)
-[](#Semana 8)
-[](#Semana 9)
-[](#Semana 10)
-[](#Semana 11)
-[](#Semana 12)
-[](#Semana 13)
-[](#Semana 14)
-[](#Semana 15)
-[](#Semana 16)
 <!-- tocstop -->
