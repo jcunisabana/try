@@ -2,7 +2,7 @@
 
 # Plan semanal
 
-| ---        |
+| ---        | 
 | **Teoría del conocimiento** | 
 | ---    |  
 
