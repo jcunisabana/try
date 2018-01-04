@@ -8,7 +8,7 @@ Introducción a la filosofía de Hume y al *Tratado*. Presentación del programa
 
 ---
 
-**Teoría del conocimiento** 
+## Teoría del conocimiento
 
 ## Semana 2 
 Teoría de las ideas.  
@@ -44,7 +44,7 @@ Posibles temas a tratar basados en textos de comentaristas.
 ¿Es Hume un escéptico respecto al conocimiento?
  
 --- 
-**Teoría del moral** 
+## Teoría del moral
 
 ## Semana 10
 Tema: Voluntad: pasiones y razones
