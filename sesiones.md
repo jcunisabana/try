@@ -2,14 +2,13 @@
 
 # Plan semanal
 
-|         | 
-| **Teoría del conocimiento** | 
-|     |  
 
 ## Semana 1
 Introducción a la filosofía de Hume y al *Tratado*. Presentación del programa y de las reglas del seminario. Repartición de relatorías y protocolos. 
 
-| **Teoría del conocimiento** |
+---
+
+**Teoría del conocimiento** 
 
 ## Semana 2 
 Teoría de las ideas.  
@@ -44,7 +43,8 @@ Posibles temas a tratar basados en textos de comentaristas.
 ¿Tiene Hume una noción positiva de causa?
 ¿Es Hume un escéptico respecto al conocimiento?
  
-| **Teoría del moral** |
+--- 
+**Teoría del moral** 
 
 ## Semana 10
 Tema: Voluntad: pasiones y razones
