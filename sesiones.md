@@ -2,8 +2,9 @@
 
 # Plan semanal
 
-| **Introducción** |
-
+| ---        |
+| **Teoría del conocimiento** | 
+| ---    |  
 
 ## Semana 1
 Introducción a la filosofía de Hume y al *Tratado*. Presentación del programa y de las reglas del seminario. Repartición de relatorías y protocolos. 
